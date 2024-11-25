@@ -1,0 +1,2 @@
+nama,kelas,nim
+dheo,7pagic,2133030040283
